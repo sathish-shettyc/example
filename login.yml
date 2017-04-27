@@ -1,9 +1,0 @@
----
-
-- include: selinux.yml
-
-- include: logistimo_accounts.yml
-
-- include: ntp_config.yml 
-
-- include: server_configure.yml
